@@ -1,0 +1,12 @@
+python_dotenv
+requests
+ipykernel
+pandas
+openpyxl
+pandas_ta
+xgboost
+scikit-learn
+matplotlib
+plotly
+nbformat
+ydata-profiling
